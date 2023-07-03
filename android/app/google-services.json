@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87506488925",
+    "project_id": "shoppy-db-2c646",
+    "storage_bucket": "shoppy-db-2c646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87506488925:android:dc39d52ea1308c875887b4",
+        "android_client_info": {
+          "package_name": "com.example.shoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87506488925-qhung8ml7qprbgt08tg64edb9ct3gsv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9xJsh-ndkZWQQCXGYwGd5a8-5woIaoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87506488925-qhung8ml7qprbgt08tg64edb9ct3gsv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
