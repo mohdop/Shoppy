@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:shoppy/screens/Home.dart';
+import 'package:shoppy/screens/nsert_product.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -11,6 +12,11 @@ void main() async {
       primarySwatch: Colors.orange,
     ),
     home: HomePage(),
+    initialRoute: "/",
+    routes: {
+      "/home":(context) => Home(),
+      '/insert': (context)=> Insert(),
+    },
   ));
 }
 
